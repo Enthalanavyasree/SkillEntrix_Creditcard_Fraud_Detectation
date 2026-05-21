@@ -1,7 +1,6 @@
 # SkillEntrix_Creditcard_Fraud_Detectation
 @@ -1 +1,126 @@
 # SkillEntrix_Creditcard_Fraud_Detectation
-# SkillEntrix_Creditcard_Fraud_Detectation
 # 💳 Credit Card Fraud Detection using Machine Learning
 
 An AI-powered Credit Card Fraud Detection System built using Python and Machine Learning techniques.  
